@@ -6,7 +6,7 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #118DF0 !default;
+$brand-primary: #ff8832 !default;
 $brand-secondary: #4CB648 !default; 
 
 $brand-white: #fff;
@@ -155,7 +155,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 
 #fh5co-header {
-	background: #00E0FF;
+	background: #E0E0E0;
 	height: 800px;
 	@media screen and (max-width: $screen-sm) {
 		// height: 400px;
@@ -418,7 +418,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #get-started {
 	padding: 7em 0;
-	background: #00E0FF;
+	background: #F5F5F5;
 	.fh5co-heading {
 		h2 {
 			margin-bottom: 20px;
